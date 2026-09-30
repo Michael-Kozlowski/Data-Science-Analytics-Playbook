@@ -2,7 +2,7 @@
 
 > **Purpose:** Prove the numbers are right before anyone else sees them, and catch issues at the layer where they start.
 > **When to use:** Before publishing any new or changed Dataflow, model, or report, and during every monthly reporting cycle.
-> **Related:** [01 Intake & Scoping](../01-intake-scoping/) (reconciliation baseline) · [02 Data Modeling](../02-data-modeling/) · [03 Report Design](../03-report-design/) · [05 Reporting and Publishing](../05-reporting-and-publishingg/)
+> **Related:** [01 Intake & Scoping](../01-intake-scoping/) (reconciliation baseline) · [02 Data Modeling](../02-data-modeling/) · [03 Report Design](../03-report-design/) · [05 Reporting and Publishing](../05-reporting-and-publishing/)
 > **Last reviewed:** YYYY-MM-DD
 
 ---
