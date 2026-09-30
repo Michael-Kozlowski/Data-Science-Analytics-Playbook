@@ -78,7 +78,7 @@ Use the template below for Small and Project requests. You don't need every answ
 
 ### The audience
 - Who will view it? 
-- Audience type: Executive / Manager / Analyst (see 03-report-design)
+- Audience type: Executive | Manager-Operator | Analyst (see 03-report-design)
 - How often will they look at it? (daily / weekly / monthly / one-time)
 
 ### The metrics
