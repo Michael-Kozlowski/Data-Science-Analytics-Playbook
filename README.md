@@ -36,7 +36,7 @@ flowchart LR
 | [02 Data Modeling](02-data-modeling/) | Source data, Power Query, Dataflows, semantic models, DAX | ✅ Drafted |
 | [03 Report Design](03-report-design/) ★ | Audience standard and visual design rules for Power BI | ✅ Drafted |
 | [04 Validation & QA](04-validation-qa/) ★ | Layered checks, reconciliation, and handling errors | ✅ Drafted |
-| [05 Monthly Reporting](05-reporting-and-publishing/) | Monthly calendar, data readiness, runbooks | ⬜ To do |
+| [05 Reporting and Publighing](05-reporting-and-publishing/) | Monthly calendar, data readiness, runbooks | ⬜ To do |
 | [06 Communication](06-communication/) | Stakeholder updates, presenting, handling pushback | ⬜ To do |
 | [07 Organization](07-organization/) | Tracking work, prioritizing, documenting | ⬜ To do |
 | [templates/](templates/) | Reusable templates pulled out of the sections | ⬜ As needed |
