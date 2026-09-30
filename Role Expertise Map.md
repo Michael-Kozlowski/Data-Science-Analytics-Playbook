@@ -152,7 +152,7 @@ Each area includes a short definition, what "good" looks like in my role, the co
 
 **Tools:** Power BI Service (workspaces, apps, scheduled refresh, gateways), calendar, runbooks
 
-**Playbook section:** [05-monthly-reporting](05-monthly-reporting/)
+**Playbook section:** [05-reporting-and-publishing](05-reporting-and-publishing/)
 
 ---
 
